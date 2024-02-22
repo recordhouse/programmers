@@ -1,10 +1,10 @@
 # [level 0] 주사위 게임 2 - 181930 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181930?language=swift) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181930?language=javascript) 
 
 ### 성능 요약
 
-메모리: 16.5 MB, 시간: 0.00 ms
+메모리: 33.4 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 2월 1일 20:43:54
+2024년 02월 22일 23:40:46
 
 ### 문제 설명
 
